@@ -1,0 +1,10 @@
+text-indent: -9999px; {background: -webkit-linear-gradient(90deg, hsla(297, 54%, 40%, 1) 0%, hsla(321, 90%, 70%, 1) 100%);}
+background: hsla(297, 54%, 40%, 1);
+
+background: linear-gradient(90deg, hsla(297, 54%, 40%, 1) 0%, hsla(321, 90%, 70%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(297, 54%, 40%, 1) 0%, hsla(321, 90%, 70%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(297, 54%, 40%, 1) 0%, hsla(321, 90%, 70%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#982F9D", endColorstr="#f76cc6", GradientType=1 );
