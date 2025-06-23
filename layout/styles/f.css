@@ -1,0 +1,35 @@
+@font-face {
+	font-family:'SF Pro AR';
+	font-style:normal;
+	font-weight:400;
+	src:url('t_fonts/SFProAR_regular.eot');
+	src:local('?'), url("t_fonts/SFProAR_regular.woff2") format("woff2"), url("t_fonts/SFProAR_regular.woff") format("woff"), url("t_fonts/SFProAR_regular.ttf") format("truetype");
+
+}
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:700;
+	src:local(''), url("t_fonts/sf-pro-icons_bold.woff2") format("woff2"), url("t_fonts/sf-pro-icons_bold.woff") format("woff"), url("t_fonts/sf-pro-icons_bold.ttf") format("truetype");
+
+}
+@font-face {
+	font-family:'SF Pro Text';
+	font-style:normal;
+	font-weight:700;
+	src:local('?'), url("t_fonts/sf-pro-text_bold.woff2") format("woff2"), url("t_fonts/sf-pro-text_bold.woff") format("woff"), url("t_fonts/sf-pro-text_bold.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+ @font-face {
+	 font-family:'OUTLINE';
+	 src:url('t_fonts/Cousine-Bold.ttf') format("truetype"); }
+ 
+ @font-face {
+	 font-family:'djadli';
+	 src:url("t_fonts/ar/Hacen_Liner_Screen.ttf") format("truetype"); }
+ 
+ @font-face {
+	 font-family:'Chunk';
+	 src:url("t_fonts/FFF_Tusj.ttf") format("truetype");
+	 }
